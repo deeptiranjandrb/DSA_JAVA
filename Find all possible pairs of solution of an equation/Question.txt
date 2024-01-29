@@ -1,0 +1,1 @@
+Print all positive integer solutions to the equation a3 + b3 = c3 + d3
